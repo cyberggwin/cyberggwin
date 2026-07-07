@@ -40,5 +40,5 @@ A real-time intelligent video monitoring system that detects people in a live ca
 
 ## 📫 Contact
 
-- LinkedIn: [Andrei Chiripuci]([www.linkedin.com/in/andrei-chiripuci-462b322a1](https://www.linkedin.com/in/andrei-chiripuci-462b322a1/))
+- LinkedIn: [Andrei Chiripuci](https://www.linkedin.com/in/andrei-chiripuci-462b322a1/)
 - Email: `andreic2004@yahoo.ro`
