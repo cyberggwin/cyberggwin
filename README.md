@@ -1,11 +1,44 @@
 # 👋 Hi, I'm Andrei Chiripuci
 
-🎓 **4th-year Electronics & Telecommunications (ETTI) student @ UPB** | Passionate about Software Engineering and building impactful projects.
+💻 Junior Software Engineer focused on **Python**, **Computer Vision** and **Android Development**.  
+🎓 ETTI student @ **University POLITEHNICA of Bucharest**  
+👨‍🏫 **DSA Teaching Assistant**  
+🚀 Currently looking for **junior software engineering roles / internships**.
 
-🚀 **Actively looking for entry-level roles / internships** in the tech industry! I'm eager to bring my academic foundation, problem-solving skills, and project experience to a dynamic team.
+---
 
-### 🛠️ Tech Stack I Use
-* **Languages: Python, C/C++, JavaScript, Java**
-* **Hardware / Embedded: Microcontrollers, Arduino, PCB Design** 
+## 🧠 About Me
 
-### 📚 Always Learning
+I enjoy building practical software projects that combine backend logic, computer vision and user-facing applications.
+
+My main interests are:
+
+- 🐍 Python development
+- 👁️ Computer Vision
+- 📱 Android development
+- 🧩 Software engineering and problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Kotlin, Java, C/C++
+- **Computer Vision:** OpenCV, YOLOv8, dlib / face_recognition
+- **Android:** Kotlin, Jetpack Compose
+- **Tools:** Git, GitHub, REST APIs, WebSocket
+
+---
+
+## 🚀 Notable Project
+
+### Real-Time Face Recognition Video Monitoring System
+
+A real-time intelligent video monitoring system that detects people in a live camera stream, recognizes known faces, validates liveness and sends results to both Windows and Android clients.
+
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Andrei Chiripuci](https://www.linkedin.com/in/%E2%9C%85-andrei-chiripuci-462b322a1)
+- Email: `andreic2004@yahoo.ro`
